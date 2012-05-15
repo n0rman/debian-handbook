@@ -1,13 +1,13 @@
-# 
-# AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# César Ballardini <cesar@ballardini.com.ar>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
 "POT-Creation-Date: 2012-05-09T20:00:15\n"
-"PO-Revision-Date: 2012-05-09T20:00:15\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
+"PO-Revision-Date: 2012-05-15 14:06-0300\n"
+"Last-Translator: César Ballardini <cesar@ballardini.com.ar>\n"
+"Language-Team: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-publican; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,132 +15,132 @@ msgstr ""
 #. Tag: keyword
 #, no-c-format
 msgid "Objective"
-msgstr ""
+msgstr "Objetivo"
 
 #. Tag: keyword
 #, no-c-format
 msgid "Means"
-msgstr ""
+msgstr "Medio"
 
 #. Tag: keyword
 #, no-c-format
 msgid "Operation"
-msgstr ""
+msgstr "Operación"
 
 #. Tag: keyword
 #, no-c-format
 msgid "Volunteer"
-msgstr ""
+msgstr "Voluntario"
 
 #. Tag: title
 #, no-c-format
 msgid "The Debian Project"
-msgstr ""
+msgstr "El Proyecto Debian"
 
 #. Tag: para
 #, no-c-format
 msgid "Before diving right into the technology, let us have a look at what the Debian Project is, its objectives, its means, and its operations."
-msgstr ""
+msgstr "Antes de sumergirnos en la tecnología, demos un vistazo al Proyecto Debian: qué es, cuáles son sus objetivos, sus medios y su forma de trabajo."
 
 #. Tag: title
 #, no-c-format
 msgid "What Is Debian?"
-msgstr ""
+msgstr "¿Qué es Debian?"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>association</primary>"
-msgstr ""
+msgstr "<primary>asociación</primary>"
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>CULTURE</emphasis> Origin of the Debian name"
-msgstr ""
+msgstr "<emphasis>CULTURA</emphasis> Origen del nombre Debian"
 
 #. Tag: para
 #, no-c-format
 msgid "Look no further: Debian is not an acronym. This name is, in reality, a contraction of two first names: that of Ian Murdock, and his girlfriend at the time, Debra. Debra + Ian = Debian."
-msgstr ""
+msgstr "No busques demasiado: Debian no es un acrónimo.  Este nombre es, en realidad, una contracción de dos nombres de pila: el de Ian Murdock y su novia en ese momento, Debra.  Debra + Ian = Debian."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian is a GNU/Linux and GNU/kFreeBSD distribution. We will discuss what a distribution is in further detail in <xref linkend=\"sect.role-of-distributions\" />, but for now, we will simply state that it is a complete operating system, including software and systems for installation and management, all based on the Linux or FreeBSD kernel and free software (especially those from the GNU project)."
-msgstr ""
+msgstr "Debian es una distribución de GNU/Linux y GNU/kFreeBSD. Vamos a ver con más detalle qué es una distribución en <xref linkend=\\\"sect.role-of-distributions\\\" /> pero, por ahora, vamos a indicar que se trata de un sistema operativo completo, lo cual incluye software y sistemas para la instalación y gestión, todo basado en los núcleos Linux o FreeBSD y también basado en software libre (especialmente aquellos del proyecto GNU)."
 
 #. Tag: para
 #, no-c-format
 msgid "When he created Debian, in 1993, under the leadership of the FSF, Ian Murdock had clear objectives, which he expressed in the <emphasis>Debian Manifesto</emphasis>. The free operating system that he sought would have to have two principal features. First, quality: Debian would be developed with the greatest care, to be worthy of the Linux kernel. It would also be a non-commercial distribution, sufficiently credible to compete with major commercial distributions. This double ambition would, in his eyes, only be achieved by opening the Debian development process just like that of Linux and the GNU project. Thus, peer review would continuously improve the product."
-msgstr ""
+msgstr "Cuando en 1993 creó Debian, bajo el liderazgo de la FSF, Ian Murdock tenía objetivos claros, y los expresó en el <emphasis>Manifiesto Debian</emphasis>.  El sistema operativo que buscaba debería tener dos características principales.  Primero, calidad: Debian sería desarrollado con el mayor de los cuidados, para ser merecedor del núcleo Linux.  También debería ser una distribución no comercial, y lo suficientemente creíble como para competir con las distribuciones comerciales más importantes.  Esta doble ambición, en su opinión, sólo serḉia alcanzable mediante la apertura del proceso de desarrollo de Debian, de la misma manera que Linux y el proyecto GNU.  De esa manera, la revisión entre pares mejoraría continuamente el producto."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>CULTURE</emphasis> GNU, the project of the FSF"
-msgstr ""
+msgstr "<emphasis>CULTURA</emphasis> GNU, el proyecto de la FSF"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>GNU</primary>"
-msgstr ""
+msgstr "<primary>GNU</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>GNU</primary><secondary>is Not Unix</secondary>"
-msgstr ""
+msgstr "<primary>GNU</primary><secondary>is Not Unix</secondary>"
 
 #. Tag: para
 #, no-c-format
 msgid "The GNU project is a range of free software developed, or sponsored, by the Free Software Foundation (FSF), originated by its iconic leader, Dr. Richard M. Stallman. GNU is a recursive acronym, standing for “GNU is Not Unix”."
-msgstr ""
+msgstr "El proyecto GNU consta un amplio espectro de software libre desarrollado, o auspiciado por Free Software Foundation (FSF), originado por su líder icónico, el Dr. Richard M. Stallman.  GNU es un acrónimo recursivo, que significa «GNU is Not Unix»."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>CULTURE</emphasis> Richard Stallman"
-msgstr ""
+msgstr "<emphasis>CULTURA</emphasis> Richard Stallman"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Stallman, Richard</primary>"
-msgstr ""
+msgstr "<primary>Stallman, Richard</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>RMS</primary>"
-msgstr ""
+msgstr "<primary>RMS</primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "<acronym>FSF</acronym>'s founder and author of the GPL license, Richard M. Stallman (often referred to by his initials, RMS) is a charismatic leader of the Free Software movement. Due to his uncompromising positions, he's not unanimously admired, but his non-technical contributions to Free Software (in particular at the legal and philosophical level) are respected by everybody."
-msgstr ""
+msgstr "El fundador de la <acronym>FSF</acronym> y autor de la licencia GPL, Richard M. Stallman (referido con frecuencia por sus iniciales, RMS) es un líder carsmático del movimiento de Software Libre.  No es unánime la admiración hacia la persona de RMS a causa de de la intransigencia de sus posiciones, pero sus contribuciones no técnicas al Software Libre (en particular a nivel legal y filosófico) tienen el respeto de todos."
 
 #. Tag: title
 #, no-c-format
 msgid "A Multi-Platform Operating System"
-msgstr ""
+msgstr "Un sistema operativo multiplataforma"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>meta-distribution</primary>"
-msgstr ""
+msgstr "<primary>meta-distribución</primary>"
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>COMMUNITY</emphasis> Ian Murdock's journey"
-msgstr ""
+msgstr "<emphasis>COMUNIDAD</emphasis> El recorrido de Ian Murdock"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Ian Murdock</primary>"
-msgstr ""
+msgstr "<primary>Ian Murdock</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Murdock, Ian</primary>"
-msgstr ""
+msgstr "<primary>Murdock, Ian</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Progeny</primary>"
-msgstr ""
+msgstr "<primary>Progeny</primary>"
 
 #. Tag: para
 #, no-c-format
