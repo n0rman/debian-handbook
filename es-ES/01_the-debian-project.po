@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
 "POT-Creation-Date: 2012-05-09T20:00:15\n"
-"PO-Revision-Date: 2012-05-15 14:06-0300\n"
+"PO-Revision-Date: 2012-05-16 13:56-0300\n"
 "Last-Translator: César Ballardini <cesar@ballardini.com.ar>\n"
 "Language-Team: es\n"
 "MIME-Version: 1.0\n"
@@ -65,7 +65,7 @@ msgstr "No busques demasiado: Debian no es un acrónimo.  Este nombre es, en rea
 #. Tag: para
 #, no-c-format
 msgid "Debian is a GNU/Linux and GNU/kFreeBSD distribution. We will discuss what a distribution is in further detail in <xref linkend=\"sect.role-of-distributions\" />, but for now, we will simply state that it is a complete operating system, including software and systems for installation and management, all based on the Linux or FreeBSD kernel and free software (especially those from the GNU project)."
-msgstr "Debian es una distribución de GNU/Linux y GNU/kFreeBSD. Vamos a ver con más detalle qué es una distribución en <xref linkend=\\\"sect.role-of-distributions\\\" /> pero, por ahora, vamos a indicar que se trata de un sistema operativo completo, lo cual incluye software y sistemas para la instalación y gestión, todo basado en los núcleos Linux o FreeBSD y también basado en software libre (especialmente aquellos del proyecto GNU)."
+msgstr "Debian es una distribución de GNU/Linux y GNU/kFreeBSD. Vamos a ver con más detalle qué es una distribución en <xref linkend=\"sect.role-of-distributions\" /> pero, por ahora, vamos a indicar que se trata de un sistema operativo completo, lo cual incluye software y sistemas para la instalación y gestión, todo basado en los núcleos Linux o FreeBSD y también basado en software libre (especialmente aquellos del proyecto GNU)."
 
 #. Tag: para
 #, no-c-format
@@ -145,167 +145,167 @@ msgstr "<primary>Progeny</primary>"
 #. Tag: para
 #, no-c-format
 msgid "Ian Murdock, founder of the Debian project, was its first leader, from 1993 to 1996. After passing the baton to Bruce Perens, Ian took a less public role. He returned to working behind the scenes of the free software community, creating the Progeny company, with the intention of marketing a distribution derived from Debian. This venture was a commercial failure, sadly, and development abandoned. The company, after several years of scraping by, simply as a service provider, eventually filed for bankruptcy in April of 2007. Of the various projects initiated by Progeny, only <emphasis>discover</emphasis> still remains. It is an automatic hardware detection tool."
-msgstr ""
+msgstr "Ian Murdock, uno de los fundadores del proyecto Debian, fue su primer líder entre 1993 y 1996. Luego de pasar el bastón de mando a Bruce Perens, Ian asumió un rol menos público.  Retornó al trabajo tras bambalinas en la comunidad del software libre, y creó la compañía Progeny, con la intención de comercializar una distribución derivada de Debian.  Esta aventura fue un fracaso comercial, tristemente, y se abandonó su desarrollo.  La compañía, después de varios años de apenas sobrevivir como proveedora de servicios, eventualmente quebró en abril de 2007.  De los diferentes proyectos que inició Progeny, sólo permanece <emphasis>discover</emphasis>.  Se trata de una herramienta para la detección automática del hardware."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian, remaining true to its initial principles, has had so much success that, today, it has reached a tremendous size. The 11 architectures offered cover 9 hardware architectures and 2 kernels (Linux and FreeBSD). Furthermore, with more than 14,500 source packages, the available software can meet almost any need that one could have, whether at home or in the enterprise."
-msgstr ""
+msgstr "Debian, al permanecer fiel a sus principios fundacionales, ha tenido tanto éxito que en la ha llevado a alcanzar una tremenda magnitud.  Las 11 arquitecturas que se ofrecen cubren 9 arquitecturas de hardware y 2 núcleos (Linux y FreeBSD).  Además de esto, al contar con más de 14.500 paquetes de fuentes, el software disponible puede satisfacer casi cualquier necesidad que uno pueda tener, tanto en el hogar como en la empresa."
 
 #. Tag: para
 #, no-c-format
 msgid "This largess becomes, sometimes, an embarrassment of riches: it is really unreasonable to distribute 50 CD-ROMs to install a complete version on an Intel machine... This is why we think of Debian ever increasingly as a “meta-distribution”, from which one extracts more specific distributions intended for a particular public: Debian-Desktop for traditional office use, Debian-Edu for education and pedagogical use in an academic environment, Debian-Med for medical applications, Debian-Junior for young children, etc. A more complete list can be found in the section dedicated to that purpose, see <xref linkend=\"sous-projets\" />."
-msgstr ""
+msgstr "Esta dadivosidad se transforma, algunas veces, en el bochorno de los ricos:  resulta irracional tener que distribuir 50 CD-ROMs para instalar la versión completa sobre una máquina Intel...  Por este motivo pensamos que Debian cada vez más como una «meta-distribución», de la cual uno extrae una distribución más específica proyectada para un público en particular: Debian-Desktop para el uso tradicional de oficina, Debian-Edu para la educación y el uso pedagógico en entornos académicos, Debian-Med para aplicaciones médicas, Debian-Junior para niños pequeños, etc.  Se puede encontrar una lista más completa en la sección dedicada a ese propósito, vea en <xref linkend=\"sous-projets\" />."
 
 #. Tag: para
 #, no-c-format
 msgid "These divisions are organized in a well-defined framework, thus guaranteeing hassle-free compatibility between the various “sub-distributions”. All of them follow the general planning for release of new versions. Built on the same foundation, they can be easily extended, completed, and personalized with applications available in the Debian repositories."
-msgstr ""
+msgstr "Estas divisiones están organizadas en un marco de trabajo bien definido, lo cual garantiza la compatibilidad sin molestias entre las diferentes «sub-distribuciones».  Todas siguen la planificación general para la entrega de nuevas versiones.  Al estar construídas sobre el mismo fundamento, se las puede extender, completar y personalizar con facilidad, mediante las aplicaciones disponiblesen los repositorios Debian."
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>subproject</primary>"
-msgstr ""
+msgstr "<primary>subproyecto</primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "All of the Debian tools operate in this direction: <command>debian-cd</command> has for a long time now allowed the creation of a set of CD-ROMs bearing only pre-selected packages; <command>debian-installer</command> is also a modular installer, easily adapted to special needs. <command>APT</command> will install packages from various origins, while guaranteeing the overall cohesion of the system."
-msgstr ""
+msgstr "Todas las herramientas Debian operan en esa dirección: <command>debian-cd</command> hace ya largo tiempo que permite la creación de un conjunto de CD-ROMs que albergan sólo paquetes preseleccionados; <command>debian-installer</command> es también un instalador modular, que se puede adaptar fácilmente a necesidades especiales.  <command>APT</command> instalará los paquetes desde diversos orígenes, a la vez que garantiza la cohesión del conjunto del sistema."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>TOOL</emphasis> Creating a Debian CD-ROM"
-msgstr ""
+msgstr "<emphasis>HERRAMIENTA</emphasis> Creación de un CD-ROM Debian"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary><command>debian-cd</command></primary>"
-msgstr ""
+msgstr "<primary><command>debian-cd</command></primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "<command>debian-cd</command> creates CD-ROM ISO installation images ready for use. Raphaël Hertzog is the author of the latest rewrite, but maintenance is essentially conducted by Steve McIntyre. Any matter regarding this software is discussed (in English) on the <email>debian-cd@lists.debian.org</email> mailing list."
-msgstr ""
+msgstr "<command>debian-cd</command> crea imágenes de instalación ISO en CD-ROM listas para usar.  Raphaël Hertzog es el autor de la última rescritura, pero al mantenimiento lo dirige esencialmente Steve McIntyre.  Cualquier asunto relacionado con este software se discute (en inglés) en la lista de correo <email>debian-cd@lists.debian.org</email>."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>BACK TO BASICS</emphasis> To each computer, its architecture"
-msgstr ""
+msgstr "<emphasis>DE VUELTA A LO BÁSICO</emphasis> Para cada computadora, su arquitectura"
 
 #. Tag: para
 #, no-c-format
 msgid "The term “architecture” indicates a type of computer (the most known include Mac or PC). Each architecture is differentiated primarily according to its processor, usually incompatible with other processors. These differences in hardware involve varying means of operation, thus requiring that software be compiled specifically for each architecture."
-msgstr ""
+msgstr "El término «arquitectura» indica un tipo de computadora (las más conocidas incluyen a la Mac o PC).  Cada arquitectura se diferencia principalmente por su procesador, que usualmente es incompatible con otros procesadores.  Estas diferencias en hardware incluyen diversos mecanismos de operación, lo cual requiere que el software se compile específicamente para cada arquitectura."
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>architecture</primary>"
-msgstr ""
+msgstr "<primary>arquitectura</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>processor</primary>"
-msgstr ""
+msgstr "<primary>procesador</primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "Most software available in Debian is written in portable programming languages: the same source code can compile on various architectures. In effect, an executable binary, always compiled for a specific architecture, will not usually function on the other architectures."
-msgstr ""
+msgstr "La mayoría del software disponible en Debian está escrito en lenguajes de programación portables: el mismo código fuente se puede compilar sobre diferentes arquitecturas.  En efecto, un binario ejecutable, siempre compilado para una arquitectura específica, usualmente no funcionará sobr otra arquitectura."
 
 #. Tag: para
 #, no-c-format
 msgid "Recall that each program is created by writing source code; this source code is a text file composed of instructions in a given programming language. Before you can use the software, it is necessary to compile the source code, which means transforming the code into a binary (a series of machine instructions executable by the processor). Each programming language has a specific compiler to execute this operation (for example, <command>gcc</command> for the C programming language)."
-msgstr ""
+msgstr "Recordemos que cada programa se crea mediante la escritura de código fuente; el código fuente es un archivo de texto compuesto de instrucciones en un dado lenguaje de programación.  Antes de poder utilizar el software, es necesario compilar el código fuente, o sea, transformarlo a binario (una serie de instrucciones de máquina ejecutables para el procesador).  Cada lenguaje de programación tiene un compilador específico que realiza esta operación (por ejemplo, <command>gcc</command> para el caso del lenguaje de programación C)."
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>source code</primary>"
-msgstr ""
+msgstr "<primary>código fuente</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>binary code</primary>"
-msgstr ""
+msgstr "<primary>código binario</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>compilation</primary>"
-msgstr ""
+msgstr "<primary>compilación</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>compiler</primary>"
-msgstr ""
+msgstr "<primary>compilador</primary>"
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>TOOL</emphasis> Installer"
-msgstr ""
+msgstr "<emphasis>HERRAMIENTA</emphasis> Instalador"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary><command>debian-installer</command></primary>"
-msgstr ""
+msgstr "<primary><command>debian-installer</command></primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "<command>debian-installer</command> is the name of the Debian installation program. Its modular design allows it to be used in a broad range of installation scenarios. The development work is coordinated on the <email>debian-boot@lists.debian.org</email> mailing list under the direction of Otavio Salvador and Joey Hess."
-msgstr ""
+msgstr "<command>debian-installer</command> es el nombre del programa de instalación Debian.  Su diseño modular permite que se lo pueda utilizar en un amplio rango de escenarios de instalación.  El trabajo de desarrollo está coordinado mediante la lista de correo <email>debian-boot@lists.debian.org</email> bajo la dirección de Otavio Salvador y Joey Hess."
 
 #. Tag: title
 #, no-c-format
 msgid "The Quality of Free Software"
-msgstr ""
+msgstr "La calidad del Software Libre"
 
 #. Tag: para
 #, no-c-format
 msgid "Debian follows all of the principles of Free Software, and its new versions are not released until they are ready. Developers are not forced by some set schedule to rush to meet an arbitrary deadline. People frequently complain of the long time between Debian's stable releases, but this caution also ensures Debian's legendary reliability: long months of testing are indeed necessary for the full distribution to receive the “stable” label."
-msgstr ""
+msgstr "Debian obedece todos los principios del Software Libre, y sus nuevas versiones no se liberan hasta que están listas.  No se presiona a los desarrolladores para que cumplan precipitadamente ciertas fechas límites de algún cronograma.  La gente habitualmente se queja del largo intervalo entre publicaciones estables de Debian, pero esta cautela también asegura la legendaria confiabilidad de Debian: efectivamente se necesitan largos meses de comprobaciones para que la distribución completa reciba la etiqueta «stable»."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian will not compromise on quality: all known critical bugs are resolved in any new version, even if this requires the initially forecast release date to be pushed back."
-msgstr ""
+msgstr "Debian no va a hacer concesiones sobre el tema de la calidad: todos los defectos críticos conocidos se resuelven en cada nueva versión, aún en el caso que deba retrasarce la fecha de publicación inicialmente prevista."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian does not exclude any category of users, however small the minority. Its installation program has long been rough around the edges, because it was the only one able to operate on all of the architectures on which the Linux kernel runs. It wasn't possible to simply replace it with a program that was more user-friendly, but limited to only the PC (i386 architecture). Fortunately, since the arrival of the <command>debian-installer</command>, those days are over."
-msgstr ""
+msgstr "Debian no deja fuera a ninguna categoría de usuarios, no importa que tan pequeña sea la minoría.  El programa de instalación hace tiempo que es un tanto áspero, porque es el único capaz de operar entodas las arquitecturas en las cuales corre el núcleo Linux.  No era posible reemplazarlo simplemente con un programa que fuese más agradable con el usuario, pero sólo limitado a la PC (arquitectura i386).  Afortunadamente, desde la llegada de <command>debian-installer</command>, esos se terminó."
 
 #. Tag: title
 #, no-c-format
 msgid "The Legal Framework: A Non-Profit Organization"
-msgstr ""
+msgstr "El marco legal: una organización sin fines de lucro"
 
 #. Tag: para
 #, no-c-format
 msgid "Legally speaking, Debian is a project managed by an American not-for-profit, volunteer association. The project has a thousand <emphasis>Debian developers</emphasis>, but brings together a far greater number of contributors (translators, bug reporters, artists, casual developers, etc.)."
-msgstr ""
+msgstr "En términos legales, Debian es un proyecto gestionado por una asociación voluntaria, sin fines de lucro, con sede en E.E.U.U.. El proyecto tiene unos mil <emphasis>desarrolladores Debian</emphasis>, pero congrega una cantidad mucho mayor de colaboradores (traductores, reporteros de defectos, artistas, desarrolladores casuales, etc.)."
 
 #. Tag: para
 #, no-c-format
 msgid "To carry its mission to fruition, Debian has a large infrastructure, with many servers connected across the Internet, offered by many sponsors."
-msgstr ""
+msgstr "Para que su misión de frutos, Debian dispone de una gran infraestructura, con muchos servidores conectados a través de Internet, que le brindan sus muchos patrocinadores."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>COMMUNITY</emphasis> Behind Debian, the SPI association, and local branches"
-msgstr ""
+msgstr "<emphasis>COMUNIDAD</emphasis> Por detrás de Debian, la asociación SPI, y las ramas locales"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>SPI</primary>"
-msgstr ""
+msgstr "<primary>SPI</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Debian France</primary>"
-msgstr ""
+msgstr "<primary>Debian Francia</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Software in the Public Interest</primary>"
-msgstr ""
+msgstr "<primary>Software in the Public Interest</primary>"
 
 #. Tag: para
 #, no-c-format
