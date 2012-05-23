@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
 "POT-Creation-Date: 2012-05-09T20:00:15\n"
-"PO-Revision-Date: 2012-05-16 13:56-0300\n"
+"PO-Revision-Date: 2012-05-23 15:00-0300\n"
 "Last-Translator: César Ballardini <cesar@ballardini.com.ar>\n"
 "Language-Team: es\n"
 "MIME-Version: 1.0\n"
@@ -310,52 +310,52 @@ msgstr "<primary>Software in the Public Interest</primary>"
 #. Tag: para
 #, no-c-format
 msgid "Debian doesn't own any server in its own name, since it is only a project within the association <emphasis>Software in the Public Interest</emphasis> (SPI) which manages the hardware and financial aspects (donations, purchase of hardware, etc.). While initially created specifically for the Debian project, this association now has a hand in other free software projects, especially the PostgreSQL database, Freedesktop.org (project for standardization of various parts of modern graphical desktop environments, such as GNOME and KDE). The OpenOffice.org office suite has also long been a part of SPI, as well. <ulink type=\"block\" url=\"http://www.spi-inc.org/\" />"
-msgstr ""
+msgstr "Ninguna de las computadoras que trabaja como servidores es de propiedad de Debian, pues Debian sólo es un proyecto dentro de la asociación <emphasis>Software in the Public Interest</emphasis> (SPI), que es quien gestiona los aspectos de hardware y financieros (donaciones, adquisiciones de hardware, etc.).  Si bien la asociación se creó específicamente para el proyecto Debian, en la actualidad se ocupa de otros proyectos de software, especialmente el gestor de bases de datos PostgreSQL, Freedesktop.org (el proyecto para estandarizar las diversas partes de un moderno entorno gráfico de escritorio, como por ejemplo GNOME o KDE).  La suite de oficina OpenOffice.org también hace tiempo que forma parte de SPI. <ulink type=\\\"block\\\" url=\\\"http://www.spi-inc.org/\\\" />"
 
 #. Tag: para
 #, no-c-format
 msgid "In addition to SPI, various local associations collaborate closely with Debian in order to generate funds for Debian, without centralizing everything in the U.S.A. This setup avoids prohibitive international transfer costs, and fits well with the decentralized nature of the project. It is in this spirit that the <emphasis>Debian France</emphasis> association was founded in the summer of 2006. Do not hesitate to join and support the project! <ulink type=\"block\" url=\"http://france.debian.net/\" />"
-msgstr ""
+msgstr "Además de SPI, existen otras asociaciones locales que colaboran de cerca con Debian a los fines de generar fondos, sin centralizar todo en E.E.U.U.  Esta conformación ahorra los prohibitivos costos de las transferencias de fondos internacionales, y se adapta bien a la naturaleza descentralizada del proyecto.  Con ese espíritu se fundó <emphasis>Debian Francia</emphasis> en el verano de 2006.  ¡No vaciles en unirte y colaborar con el proyecto! <ulink type=\\\"block\\\" url=\\\"http://france.debian.net/\\\" />"
 
 #. Tag: title
 #, no-c-format
 msgid "The Foundation Documents"
-msgstr ""
+msgstr "Los Documentos Fundacionales"
 
 #. Tag: para
 #, no-c-format
 msgid "<indexterm><primary>Foundation Documents</primary></indexterm> Some years after its initial launch, Debian formalized the principles that it should follow as a free software project. This activist step allows orderly and peaceful growth by ensuring that all members progress in the same direction. To become a Debian developer, any candidate must confirm and prove their support and adherence to the principles established in the project's Foundation Documents."
-msgstr ""
+msgstr "<indexterm><primary>Documentos Fundacionales</primary></indexterm>  Algunos años después de su lanzamiento inicial, se formalizaron los principios que Debian que se deberían seguir como proyecto de software libre.  Este paso de corte activista permitió un crecimiento ordenado y pacífico al asegurar que todos los miembros avanzan en la misma dirección.  Para convrtirse en un desarrollador Debian, los candidatos deben ratificar y demostrar su respaldo y adhesión a los principios establecidos en los Documentos Fundacionales del proyecto."
 
 #. Tag: para
 #, no-c-format
 msgid "The development process is constantly debated, but these Foundation Documents are widely and consensually supported, thus rarely change. The Debian constitution also offers other guarantees: a qualified majority of three quarters is required to approve any amendment."
-msgstr ""
+msgstr "El proceso de desarrollo se debate constantemente, pero esos Documentos Fundacionales gozan de un respaldo amplio y consensuado, y por ello rara vez cambian.  La constitución Debian también ofrece otras garantías: se requiere una mayoría calificada de tres cuartos para aprobar cualquier modificación."
 
 #. Tag: title
 #, no-c-format
 msgid "The Commitment towards Users"
-msgstr ""
+msgstr "El Compromiso hacia los usuarios"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>social contract</primary>"
-msgstr ""
+msgstr "<primary>contrato social</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>contract, social</primary>"
-msgstr ""
+msgstr "<primary>social, contrato</primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "The project also has a “social contract”. What place does such a text have in a project only intended for the development of an operating system? That is quite simple: Debian works for its users, and thus, by extension, for society. This contract summarizes the commitments that the project undertakes. Let us study them in greater detail:"
-msgstr ""
+msgstr "El proyecto tiene también un «contrato social».  ¿Cuál es el rol de un documento de esa naturaleza en un proyecto que está orientado al desarrollo de un sistema operativo?  Es bastante simple: Debian trabaja para sus usuarios, y por lo tanto, por extensión, para la sociedad toda.  El contrato resume los compromisos que asume el proyecto.  Vamos a estudiarlos con más detenimiento:"
 
 #. Tag: para
 #, no-c-format
 msgid "Debian will remain 100% free."
-msgstr ""
+msgstr "Debian permanecerá 100% libre"
 
 #. Tag: para
 #, no-c-format
