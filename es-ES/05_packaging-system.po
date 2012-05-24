@@ -1,12 +1,12 @@
 # 
-# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# César Ballardini <cesar@ballardini.com.ar>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
 "POT-Creation-Date: 2012-05-09T20:00:15\n"
-"PO-Revision-Date: 2012-05-09T20:00:15\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-05-20 11:27-0300\n"
+"Last-Translator: César Ballardini <cesar@ballardini.com.ar>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-publican; charset=UTF-8\n"
@@ -15,37 +15,37 @@ msgstr ""
 #. Tag: keyword
 #, no-c-format
 msgid "Binary package"
-msgstr ""
+msgstr "Paquete binario"
 
 #. Tag: keyword
 #, no-c-format
 msgid "Source package"
-msgstr ""
+msgstr "Paquete fuente"
 
 #. Tag: keyword
 #, no-c-format
 msgid "dpkg"
-msgstr ""
+msgstr "dpkg"
 
 #. Tag: keyword
 #, no-c-format
 msgid "dependencies"
-msgstr ""
+msgstr "dependencias"
 
 #. Tag: keyword
 #, no-c-format
 msgid "conflict"
-msgstr ""
+msgstr "conflicto"
 
 #. Tag: title
 #, no-c-format
 msgid "Packaging System: Tools and Fundamental Principles"
-msgstr ""
+msgstr "Sistema de empaquetado: Herramientas y principios fundamentales"
 
 #. Tag: para
 #, no-c-format
 msgid "As a Debian system administrator, you will routinely handle <filename>.deb</filename> packages, since they contain consistent functional units (applications, documentation, etc.), whose installation and maintenance they facilitate. It is therefore a good idea to know what they are and how to use them."
-msgstr ""
+msgstr "En tu rol de administrador de un sistema Debian, manejarás paquetes <filename>.deb</filename> de manera rutinaria, pues contienen unidades funcionales (aplicaciones, documentación, etc.), cuya instalación y mantenimiento facilitan.  Por lo tanto, es una buena idea saber qué es lo que son y cómo usarlos."
 
 #. Tag: para
 #, no-c-format
