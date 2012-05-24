@@ -400,7 +400,7 @@ msgstr "<primary>autor aguas arriba</primary>"
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>author, upstream</primary>"
-msgstr "aguas arriba, autor"
+msgstr "<primary>aguas arriba, autor</primary>"
 
 #. Tag: indexterm
 #, no-c-format
@@ -435,7 +435,7 @@ msgstr "Nuestras prioridades son nuestros usuarios y el software libre."
 #. Tag: para
 #, no-c-format
 msgid "This commitment is more difficult to define. Debian imposes, thus, a bias when a decision must be made, and will discard an easy solution for the developers that will jeopardize the user experience, opting for a more elegant solution, even if it is more difficult to implement. This means to take into account, as a priority, the interests of the users and free software."
-msgstr "Este compromiso es más difícil de definir.  Debian impone un sesgo, de ese modo, cuando se debe tomar una decisión, y obligará a descartar una solución fácil para los desarrolladores que haga peligrar la experiencia del usuario, y a optar por una solución más elegante, aún si ésta es más difícil de implementar.  Esto significa que se debe tomar en cuenta, de manera prioritaria, los intereses de los usuarios y del software libre.<"
+msgstr "Este compromiso es más difícil de definir.  Debian impone un sesgo, de ese modo, cuando se debe tomar una decisión, y obligará a descartar una solución fácil para los desarrolladores que haga peligrar la experiencia del usuario, y a optar por una solución más elegante, aún si ésta es más difícil de implementar.  Esto significa que se debe tomar en cuenta, de manera prioritaria, los intereses de los usuarios y del software libre."
 
 #. Tag: para
 #, no-c-format
