@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
 "POT-Creation-Date: 2012-05-09T20:00:15\n"
-"PO-Revision-Date: 2012-05-23 15:00-0300\n"
+"PO-Revision-Date: 2012-05-23 23:19-0300\n"
 "Last-Translator: César Ballardini <cesar@ballardini.com.ar>\n"
 "Language-Team: es\n"
 "MIME-Version: 1.0\n"
@@ -360,232 +360,232 @@ msgstr "Debian permanecerá 100% libre"
 #. Tag: para
 #, no-c-format
 msgid "This is Rule No. 1. Debian is and will remain composed entirely and exclusively of free software. Additionally, all software development within the Debian project, itself, will be free."
-msgstr ""
+msgstr "Ésta es la regla Nº 1.  Debian está compuesto completa y exclusivamente de software libre y así permanecerá.  Adicionalmente, todo el desarrollo de software dentro del proyecto Debian, también será libre."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>PERSPECTIVE</emphasis> Beyond software"
-msgstr ""
+msgstr "<emphasis>PERSPECTIVA</emphasis> Más que software"
 
 #. Tag: para
 #, no-c-format
 msgid "The first version of the Debian Social Contract said “Debian Will Remain 100% Free <emphasis>Software</emphasis>”. The disappearance of this word (with the ratification of Version 1.1 of the contract in April of 2004) indicates the will to achieve freedom, not only in software, but also in the documentation and any other element that Debian wishes to provide within its operating system."
-msgstr ""
+msgstr "La primera versión del Contrato Social Debian decía: «Debian se va a mantener <emphasis>software</emphasis> 100% Libre.»  En la ratificación de la versión 1.1 del contrato en abril de 2004 la palabra <emphasis>software</emphasis> desapareció, lo cual muestra la voluntad de alcanzar la libertad, no solamente en el software, sino también en la documentación y cualquier otro elemento que Debian quiera proporcionar dentro de su sistema operativo."
 
 #. Tag: para
 #, no-c-format
 msgid "This change, which was only intended as editorial, has, in reality, had numerous consequences, especially with the removal of some problematic documentation. Furthermore, the increasing use of firmware in drivers poses problems: frequently non-free, they are, nonetheless, necessary for proper operation of the corresponding hardware."
-msgstr ""
+msgstr "Este cambio, cuya intención era sólo editorial, en la práctica ha tenido numerosas consecuencias, especialmente con la eliminación de cierta documentación problemática.  Más aún, la utilización de firmware dentro de los controladores de dispositivos es un fenómeno que se intensifica y plantea problemas: este firmware a menudo no es libre, y no obstante, es necesario para la correcta operación del hardware correspondiente."
 
 #. Tag: para
 #, no-c-format
 msgid "We will give back to the free software community."
-msgstr ""
+msgstr "Vamos a retribuir a la comunidad de software libre."
 
 #. Tag: para
 #, no-c-format
 msgid "Any improvement contributed by the Debian project to a program integrated in the distribution is sent back to the author of the program (called “upstream”). In general, Debian will cooperate with the community rather than work in isolation."
-msgstr ""
+msgstr "Toda mejora que el proyecto Debian contribuya a un programa integrado en la distribución se envía de vuelta al autor del programa (denominado «aguas arriba» o <emphasis>«upstream»</emphasis>).  En general, Debian va a cooperar con la comunidad antes que trabajar en forma aislada."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>COMMUNITY</emphasis> Upstream author, or Debian developer?"
-msgstr ""
+msgstr "<emphasis>COMUNIDAD</emphasis> ¿Autor aguas arriba, o desarrollador Debian?"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>upstream author</primary>"
-msgstr ""
+msgstr "<primary>autor aguas arriba</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>author, upstream</primary>"
-msgstr ""
+msgstr "aguas arriba, autor"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>upstream</primary>"
-msgstr ""
+msgstr "<primary>upstream</primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "The term “upstream author” means the author(s)/developer(s) of a program, those who write and develop it. On the other hand, a “Debian developer” works with an existing program to make it into a Debian package (the term “Debian maintainer” is better suited)."
-msgstr ""
+msgstr "El término «autor aguas arriba» denomina al autor(es)/desarrollador(es) del programa, aquellos que lo escribieron y desarrollaron.  Por otro lado, un «desarrollador Debian» trabaja sobre un programa existente para convertirlo en un paquete Debian (el término «mantenedor Debian» es más adecuado)."
 
 #. Tag: para
 #, no-c-format
 msgid "Frequently, the line of demarcation is not clear. The Debian maintainer may write a patch, which benefits all users of the software. In general, Debian encourages those in charge of a package in Debian to get involved in “upstream” development as well (they become, then, contributors, without being confined to the simple role of users of a program)."
-msgstr ""
+msgstr "A menudo la línea de demarcación no es tan clara.  El mantenedor Debian puede escribir un parche, que beneficia a todos los usuarios del software.  En general, Debian alienta a aquellos a cargo de un paquete a que también se involucren en el desarrollo «aguas arriba» (entonces se transforman en colaboradores, y no quedan confinados al simple rol de usuarios del programa)."
 
 #. Tag: para
 #, no-c-format
 msgid "We will not hide problems."
-msgstr ""
+msgstr "No vamos a ocultar los problemas."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian is not perfect, and, we will find new problems to fix every day. We will keep our entire bug report database open for public view at all times. Reports that people file on-line will promptly become visible to others."
-msgstr ""
+msgstr "Debian no es perfecto, y diariamente encontraremos nuevos problemas para arreglar.  Vamos a mantener nuestra base de datos de informes de defectos abierta a la vista del público en todo momento.  Los informes que la gente llene online serán visibles para los demás, de manera expeditiva."
 
 #. Tag: para
 #, no-c-format
 msgid "Our priorities are our users and free software."
-msgstr ""
+msgstr "Nuestras prioridades son nuestros usuarios y el software libre."
 
 #. Tag: para
 #, no-c-format
 msgid "This commitment is more difficult to define. Debian imposes, thus, a bias when a decision must be made, and will discard an easy solution for the developers that will jeopardize the user experience, opting for a more elegant solution, even if it is more difficult to implement. This means to take into account, as a priority, the interests of the users and free software."
-msgstr ""
+msgstr "Este compromiso es más difícil de definir.  Debian impone un sesgo, de ese modo, cuando se debe tomar una decisión, y obligará a descartar una solución fácil para los desarrolladores que haga peligrar la experiencia del usuario, y a optar por una solución más elegante, aún si ésta es más difícil de implementar.  Esto significa que se debe tomar en cuenta, de manera prioritaria, los intereses de los usuarios y del software libre.<"
 
 #. Tag: para
 #, no-c-format
 msgid "Works that do not meet our free software standards."
-msgstr ""
+msgstr "Trabajos que no satisfacen nuestros estándares de software libre."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian accepts and understands that users often want to use some non-free programs. The project, thus, has made part of its infrastructure available to them, in order to distribute as Debian packages software that authorizes it."
-msgstr ""
+msgstr "Debian acepta y comprende que los usuarios con frecuencia van a querer usar programas no libres.  El proyecto, por lo tanto, ha puesto parte de su infraestructura a su disposición, para distribuir en forma de paquetes Debian aquellos programas que lo autoricen."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>COMMUNITY</emphasis> For or against the non-free section?"
-msgstr ""
+msgstr "<emphasis>COMUNIDAD</emphasis> ¿A favor o en contra de una sección no libre (non-free)?"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>non-free</primary>"
-msgstr ""
+msgstr "<primary>no libre</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>section</primary><secondary>non-free</secondary>"
-msgstr ""
+msgstr "<primary>sección</primary><secondary>no libre</secondary>"
 
 #. Tag: para
 #, no-c-format
 msgid "The commitment to maintain a structure to accommodate non-free software (i.e. the “non-free” section, see the sidebar <xref linkend=\"cadre-sections\" />) is frequently a subject of debate within the Debian community."
-msgstr ""
+msgstr "El compromiso de sostener una estructura para acomodar al software no libre (o sea, la sección «non-free», vea el recuadro <xref linkend=\"cadre-sections\" />) con frecuencia resulta en tema de debate dentro de la comunidad Debian."
 
 #. Tag: para
 #, no-c-format
 msgid "Detractors argue that it turns people away from free software equivalents, and contradicts the principle of serving only the free software cause. Supporters flatly state that most of the non-free packages are “nearly free”, and held back by only one or two annoying restrictions (the most common being the prohibition against commercial usage of the software). By distributing these programs in the non-free branch, we indirectly explain to the author that their creation would be better known and more widely used if they could be included in the main section. They are, thus, politely invited to alter their license to serve this purpose."
-msgstr ""
+msgstr "Los detractores argumentan que esto aleja a la gente de los software libre equivalentes, y que contradice el principio de servir sólo a la causa del software libre.  Los defensores aseveran de plano que la mayoría de los paquetes no libres son «casi libres», y que lo único que les impide ser libres es una o dos restricciones fastidiosas (la más común es la prohibición del uso comercial del software).   Al distribuir esos programas en la rama no libre, indirectamente le estamos indicando al autor que su creación sería mejor conocida y más ampliamante utilizada si se la pudiera incluir en la sección principal («main»).  De esta manera, se les invita cortesmente a que alteren su licencia para servir a este propósito."
 
 #. Tag: para
 #, no-c-format
 msgid "After a first, unfruitful attempt in 2004, the complete removal of the non-free section should not return to the agenda for several years, especially since it contains many useful documents that were moved simply because they did not meet the new requirements for the main section. This is especially the case for certain software documentation files issued by the GNU project (in particular, Emacs and Make)."
-msgstr ""
+msgstr "Después de un primer intento infructuoso en 2004,  durante varios años no debería considerarse en la agenda el punto de la eliminación completa de la sección no libre, especialmente porque contiene muchos documentos útiles que se movieron allí simplemente porque no satisfacen los requerimientos de la sección main.  Esto es especialmente cierto para archivos de documentación de software expedidos por el proyecto GNU (en particular, Emacs y Make)."
 
 #. Tag: para
 #, no-c-format
 msgid "The existence of the non-free section particularly annoys the Free Software Foundation, causing it, thus, to refuse to officially recommend Debian as an operating system."
-msgstr ""
+msgstr "La existencia de la sección no libre irrita de manera particular a la Free Software Foundation, y hace que por ello, se niegue a recomendar oficialmente a Debian como sistema operativo."
 
 #. Tag: title
 #, no-c-format
 msgid "The Debian Free Software Guidelines"
-msgstr ""
+msgstr "Las Líneas Directivas de Software Libre Debian"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>free software principles</primary>"
-msgstr ""
+msgstr "<primary>principios de software libre</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>DFSG</primary>"
-msgstr ""
+msgstr "<primary>DFSG</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>Debian Free Software Guidelines</primary>"
-msgstr ""
+msgstr "<primary>Líneas Directivas de Software Libre Debian</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>free</primary><secondary>software</secondary>"
-msgstr ""
+msgstr "<primary>libre</primary><secondary>software</secondary>"
 
 #. Tag: para
 #, no-c-format
 msgid "This reference document defines which software is “free enough” to be included in Debian. If a program's license is in accord with these principles, it can be included in the main section; on the contrary, and provided that free distribution is permitted, it may be found in the non-free section. The non-free section is not officially part of Debian; it is an added service provided to users."
-msgstr ""
+msgstr "Este documento de referencia define cuál software es «suficientemente libre» como para incluirse en Debian.  Si la licencia de un programa está de acuerdo con estos principios, se lo puede incluir en la sección main; si no es así, pero además se permite la libre distribución, se lo puede ubicar en la sección no libre.  La sección no  libre no es parte oficial de Debian, se trata de un servicio adicional para los usuarios."
 
 #. Tag: para
 #, no-c-format
 msgid "More than a selection criteria for Debian, this text has become an authority on the subject of free software, and has served as the basis for the “Open Source definition”. It is, thus, historically one of the first formalizations of the concept of “free software”."
-msgstr ""
+msgstr "Más que un criterio de selección para Debian, este texto se ha convertido en una autoridad en el tema del software libre, y sirvió de base para la «definición Open Source». Por esto, históricamente es uno de las primeras formalizaciones del concepto de «software libre»."
 
 #. Tag: para
 #, no-c-format
 msgid "The GNU General Public License, the BSD License, and the Artistic License are examples of traditional free licenses that follow the 9 points mentioned in this text. Below you will find the text as it is published on the Debian website. <ulink type=\"block\" url=\"http://www.debian.org/social_contract#guidelines\" />"
-msgstr ""
+msgstr "La Licencia Pública General de GNU, la licencia BSD, y la licencia Artística son ejemplos de licencias libres tradicionales que satisfacen los 9 puntos mencionados en este texto.  Más abajo encontrarás el texto como se lo publica en el sitio web de Debian.  <ulink type=\"block\" url=\"http://www.debian.org/social_contract#guidelines\" />\""
 
 #. Tag: title
 #, no-c-format
 msgid "Free redistribution."
-msgstr ""
+msgstr "Redistribución libre."
 
 #. Tag: para
 #, no-c-format
 msgid "The license of a Debian component may not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license may not require a royalty or other fee for such sale."
-msgstr ""
+msgstr "La licencia de un componente Debian no debe restringir a ninguna parte para impedirle que venda o regale el software como componente de una distribución de softwaare agregado que contiene programas de diferentes orígenes.  La licencia no puede requerir regalías u otros aranceles para permitir tales ventas."
 
 #. Tag: title
 #, no-c-format
 msgid "<emphasis>BACK TO BASICS</emphasis> Free licenses"
-msgstr ""
+msgstr "<emphasis>DE VUELTA A LO BÁSICO</emphasis> Licencias libres"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>license</primary><secondary>BSD</secondary>"
-msgstr ""
+msgstr "<primary>licencia</primary><secondary>BSD</secondary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>BSD license</primary>"
-msgstr ""
+msgstr "<primary>licencia BSD</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>license</primary><secondary>GPL</secondary>"
-msgstr ""
+msgstr "<primary>licencia</primary><secondary>GPL</secondary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>GPL</primary>"
-msgstr ""
+msgstr "<primary>GPL</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>GNU</primary><secondary>General Public License</secondary>"
-msgstr ""
+msgstr "<primary>GNU</primary><secondary>Licencia Pública General</secondary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>General Public License</primary>"
-msgstr ""
+msgstr "<primary>General Public License</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>license</primary><secondary>artistic</secondary>"
-msgstr ""
+msgstr "<primary>licencia</primary><secondary>artística</secondary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>artistic license</primary>"
-msgstr ""
+msgstr "<primary>licencia artística</primary>"
 
 #. Tag: para
 #, no-c-format
 msgid "The GNU GPL, the BSD license, and the Artistic License all comply with the Debian Free Software Guidelines, even though they are very different."
-msgstr ""
+msgstr "La GPL de GNU, la licencia BSD, y la Licencia Artística satisfacen las Líneas Directivas de Software Libre Debian, aún cuando son muy diferentes."
 
 #. Tag: para
 #, no-c-format
 msgid "The GNU GPL, used and promoted by the FSF (Free Software Foundation), is the most common. A particular feature thereof is that any redistributed program or work derived from a program incorporating or using GPL code, can only be distributed according to its terms. It prohibits, thus, any reuse in a proprietary application. This poses serious problems for the reuse of GPL code in free software incompatible with this license. As such, it is sometimes impossible to link a program published under another free software license with a library distributed under the GPL. On the other hand, this license is very solid in American law: FSF lawyers have participated in the drafting thereof, and have often forced violators to reach an amicable agreement with the FSF without going to court. <ulink type=\"block\" url=\"http://www.gnu.org/copyleft/gpl.html\" />"
-msgstr ""
+msgstr "La GPL de GNU, que es la que usa la FSF (Free Software Foundation), es la más común.  Tiene una característica particular, y es que cada programa redistribuído o trabajo derivado de un programa que incorpora o usa código GPL, sólo se puede distribuir de acuerdo con sus términos.  De esa manera prohibe cualquier reuso dentro de una aplicación privativa.  Esto causa serios problemas para el reuso de código GPL en software libre incompatible con esta licencia.  Por este motivo, a veces resulta imposible enlazar un programa publicado bajo otro licencia de software libre con una biblioteca que se distribuye bajo la GPL.  Por otro lado, esta licencia es muy sólida en el sistema legal norteamericano:  los abogados de ls FSF participaron de su borrador, y con frecuencia han  obligado a los quebrantadores a llegar a conciliaciones amigables con la FSF sin ir a la corte.  <ulink type=\"block\" url=\"http://www.gnu.org/copyleft/gpl.html\" />"
 
 #. Tag: para
 #, no-c-format
