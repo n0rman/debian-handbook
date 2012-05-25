@@ -60,7 +60,7 @@ msgstr ""
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>documentation</primary>"
-msgstr ""
+msgstr "<primary>documentación</primary>"
 
 #. Tag: para
 #, no-c-format
@@ -120,7 +120,7 @@ msgstr ""
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>command line interpreter</primary>"
-msgstr ""
+msgstr "<primary>intérprete de línea de comando</primary>"
 
 #. Tag: indexterm
 #, no-c-format
@@ -175,9 +175,9 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "games;"
-msgstr ""
+msgstr "juegos;"
 
-#. Tag: para
+#. Tag: para	
 #, no-c-format
 msgid "sets of macros and standards;"
 msgstr ""
@@ -325,7 +325,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Specific Documentation"
-msgstr ""
+msgstr "Documentación específica"
 
 #. Tag: para
 #, no-c-format
@@ -485,7 +485,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Configuring a Program"
-msgstr ""
+msgstr "Configuración de un programa"
 
 #. Tag: indexterm
 #, no-c-format
