@@ -15,7 +15,7 @@ msgstr ""
 #. Tag: keyword
 #, no-c-format
 msgid "Documentation"
-msgstr ""
+msgstr "Documentación"
 
 #. Tag: keyword
 #, no-c-format
@@ -680,12 +680,12 @@ msgstr ""
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>report a bug</primary>"
-msgstr ""
+msgstr "<primary>reporta un fallo</primary>"
 
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>bug report</primary>"
-msgstr ""
+msgstr "<primary>informe de fallo</primary>"
 
 #. Tag: para
 #, no-c-format
