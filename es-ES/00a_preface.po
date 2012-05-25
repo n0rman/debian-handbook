@@ -1,13 +1,13 @@
 # 
-# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# César Ballardini <cesar@ballardini.com.ar>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
 "POT-Creation-Date: 2012-05-09T20:00:14\n"
-"PO-Revision-Date: 2012-05-09T20:00:14\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
+"PO-Revision-Date: 2012-05-25 12:36-0300\n"
+"Last-Translator: Cesar Ballardini <cesar@ballardini.com.ar>\n"
+"Language-Team: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-publican; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,35 +15,35 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Preface"
-msgstr ""
+msgstr "Prólogo"
 
 #. Tag: para
 #, no-c-format
 msgid "Many professionals are increasingly embracing Debian GNU/Linux, whose goal to create a rich and flexible distribution that does not require too much maintenance fits their expectations. They generally appreciate its robustness and reliability, its automation of secondary tasks, as well as the coherence brought by the strict application of specifications and therefore the durability of achievements and skills."
-msgstr ""
+msgstr "Cada vez más profesionales adoptan Debian GNU/Linux, cuya meta consiste en crear una distribución opulenta y flexible que no requiera demasiado mantenimiento para satisfacer sus expectativas.  En general aprecian su robustez y confiabilidad, la automatización provista en las tareas secundarias, tanto como la coherencia que sigue a la estricta aplicación de especificaciones, y por consiguiente, la durabilidad de los logros y pericias."
 
 #. Tag: para
 #, no-c-format
 msgid "At the same time, many influential actors in the computing industry have now come to understand the strategic interest of using an elaborate distribution that is not managed by a commercial entity. Some of their customers also understand — following the same logic — that a software platform that does not depend on agreements between suppliers reduces the constraints they will have after the purchase."
-msgstr ""
+msgstr "Al mismo tiempo, muchos actores influyentes en la industria de la computación han empezado a comprender el interés estratégico que tiene el uso de una elaborada distribución que no está manejada por ninguna entidad comercial.  Algunos de sus clientes también entienden — siguiendo la mismoa lógica — que una plataforma de software que no depende de acuerdos entre proveedores reduce los condicionamientos que van a tener que soportar luego de la compra."
 
 #. Tag: para
 #, no-c-format
 msgid "Finally, many beginners discover Debian through the Knoppix and Ubuntu projects, while others “look under the hood” because they want to avoid empiricism."
-msgstr ""
+msgstr "Por último, muchos principiantes descubren Debian a través de los proyectos Knoppix y Ubuntu, mientras que otros «miran bajo el capó»  porque tratan de evitar el empirismo."
 
 #. Tag: para
 #, no-c-format
 msgid "Debian — which used to be low-profile — was first adopted by passionate users, who were often attracted by the spirit it embodies. They found a project with clear goals and visible achievements, whose developers focus on creating a good design <emphasis>before</emphasis> building — thereby rejecting the deadlines that often compromise the quality of so many other software projects. Debian is led by its very actors. In other words, Debian users join a project that fully benefits from the advantages of free software… so as to produce free software themselves."
-msgstr ""
+msgstr "Debian — que acostumbraba tener perfil bajo — fue adoptada primero por usuarios apasionados, muchas veces atraídos por el espíritu que personifica.  Encontraron un proyecto con metas claras y logros visibles, cuyos desarrolladores se concentran en crear un buen diseño <emphasis>antes</emphasis> de construirlo — y a causa de esto rechazaban las fechas de entrega que con frecuencia comprometen la calidad de tantos otros proyectos de software.  A Debian lo lideran sus mismos actores.  En otras palabras, los usuarios de Debian se unen a un proyecto en el cual reciben todos los beneficios de las ventajas del software libre… como para ellos mismos producir software libre."
 
 #. Tag: para
 #, no-c-format
 msgid "The <citetitle>Debian Administrator's Handbook</citetitle> will guide you on your way to autonomy. It could only be written by authors who master both the technical aspects and the inner workings of the Debian project, and who know the needs of seasoned professionals as well as enthusiasts. Raphaël Hertzog and Roland Mas had the required qualities and managed to create and update this book. I thank them very much for their work and have no doubt that reading this book will be both helpful and pleasant."
-msgstr ""
+msgstr "El <citetitle>Manual del Administrador Debian</citetitle> te guiará en tu camino hacia la autonomía.  Sólo pudieron escribirlo autores que dominan tanto los aspectos técnicos y el funcionamiento interno del proyecto Debian, y que conocen tanto las necesidades de los profesionales experimentados como de los entusiastas.  Raphaël Hertzog y Roland Mas tienen las cualidades necesarias y se las arreglaron para crear y actualizar este libro.  Les estoy muy agradecido por su trabajo y no tengo dudas que la lectura de este libro será tanto de ayuda como placentera."
 
 #. Tag: para
 #, no-c-format
 msgid "Nat Makarevitch (PGP/GPG fingerprint: <literal>2010 4A02 9C0E 7D1F 5631 ADF0 453C 4549 0230 D602</literal>)"
-msgstr ""
+msgstr "Nat Makarevitch (PGP/GPG fingerprint: <literal>2010 4A02 9C0E 7D1F 5631 ADF0 453C 4549 0230 D602</literal>)"
 
