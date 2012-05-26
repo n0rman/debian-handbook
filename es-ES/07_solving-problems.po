@@ -405,7 +405,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Tutorials (<emphasis>HOWTO</emphasis>)"
-msgstr ""
+msgstr "Tutoriales (<emphasis>HOWTO</emphasis>)"
 
 #. Tag: indexterm
 #, no-c-format
@@ -640,7 +640,7 @@ msgstr ""
 #. Tag: indexterm
 #, no-c-format
 msgid "<primary>mailing lists</primary>"
-msgstr ""
+msgstr "<primary>listas de correo</primary>"
 
 #. Tag: title
 #, no-c-format
